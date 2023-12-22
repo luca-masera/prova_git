@@ -40,4 +40,4 @@ incollare la cartella webfonts dentro resources
 
 metto $fa-font-path: "../fonts/font-awesome" !default;
 ```
-
+CIAO TANTI AUGURI E BUON NATALE
