@@ -1,1 +1,5 @@
-<div>header <i class="fa-solid fa-home"> </i></div>
+<div>
+    <header>
+        <h1>Header</h1>
+    </header>
+</div>
